@@ -2,7 +2,7 @@
 title: truffleUseMap
 author: Fnkk
 avatar: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/custom/avatar.jpg
-authorLink: hojun.cn
+authorLink: fnkk.io
 authorAbout: Fnkk
 authorDesc: Fnkk
 categories: 技术
@@ -34,7 +34,7 @@ photos: https://static.2heng.xin/wp-content/uploads//2019/02/wallhaven-672007-1-
 
 ### solidity相关
 - 高版本的solidity中，强制要求所有string类型后面加上memory
-- now关键字已费用，采用block.timestamp代替
+- now关键字已废用，采用block.timestamp代替
 - 需要transfer的地址要加上payable关键字
 -  keccak256用法`result =  keccak256(abi.encodePacked(value, fake, secret))`
 
