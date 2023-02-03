@@ -26,4 +26,11 @@ photos: https://static.2heng.xin/wp-content/uploads//2019/02/wallhaven-672007-1-
     初始state需要通过复杂计算获得，则可以传入一个函数，在函数中计算并返回初始的 state
     **如果更新的数据与上次一样，React 将跳过子组件的渲染及 effect 的执行**
 ### useContext
-- 
+1. 把需要父子组件通信的数据使用createContext函数创建
+2. 在父组件中使用.Provider包裹子组件，把需要传递的数据通过父组件的value属性传递
+3. 在子组件中使用useContext方法获取到value传递的值
+### useEffect
+- React在完成对DOM的更新后会执行，默认情况下，React会在每次渲染后调用副作用函数，包括第一次渲染的时候
+- useEffect有两个参数，第一个参数是副作用的处理函数，第二参数是在与该副作用关联的状态或属性依赖数组
+- 第二个参数为空数组时，表示该副作用函数不依赖任何值的变化，只在组件渲染后执行一次
+- useEffect相当于Vue生命周期中的mouted，在组件渲染后执行，它的return函数相当于destroy在下次渲染前执行
