@@ -25,6 +25,11 @@ photos: https://static.2heng.xin/wp-content/uploads//2019/02/wallhaven-672007-1-
 - 定义一定金额 单位Wei 
 这里的数字采用字符串的形式输入，避免精度丢失
     `amt_1 = web3.utils.toWei('1', 'ether');`
+- geth转账ETH
+    `eth.sendTransaction({from:a,to:b,value:web3.toWei(20,"ether")})`
+- wei转ether
+    `web3.fromWei(numer,'ether')`
+- data 文件夹大小 5.35/5.44MB
 
 ### truffle相关
 #### truffle部署测试流程

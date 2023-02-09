@@ -36,3 +36,20 @@ photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
 - useEffect相当于Vue生命周期中的mouted，在组件渲染后执行，它的return函数相当于destroy在下次渲染前执行
 ### useReducer
 - useReducer接收3个参数，第一个参数是处理状态更新的reducer，第二个参数是状态初始值，第三个参数是状态初始化函数`const [state, dispathch] = userReducer(reducer, initialArg, init);`
+- 指定初始state
+    1. 将初始state作为第二个参数传入
+    ```
+    const [state, dispatch] = useReducer(
+        reducer,
+        {count: initialCount}
+    )
+    ``` 
+    2. 惰性初始化， 将第二个参数作为第三个函数入参传入
+    ```
+
+    ```
+### useCallback
+-  
+### useMemo 
+- useMemo传入的函数内部需要有返回值
+- useMemo只能声明在函数式组件内部
