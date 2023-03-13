@@ -18,3 +18,6 @@ photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
 4. 遭受苦难获得价值，遭受的更多，稀缺性更强。
 5. 逃避和放弃之间缺少了自洽。
 6. 尝试定下目标，完成它的60%。
+7. 完成度比完美重要的多。
+8. 冒进的话之所以冒进，不是因为话冒进，只是因为情绪和氛围不对。
+9. rimraf node_modules 删除node_modules。
