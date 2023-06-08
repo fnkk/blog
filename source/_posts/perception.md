@@ -23,3 +23,4 @@ photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
 9. rimraf node_modules 删除node_modules。
 10. 有没有可能，你坚持和守护的东西，都是错的。
 11. 犹豫不一定是谎言，快速的回应反而可能是提前准备好的谎言。
+12. 了解规则、跳出规则、突破规则。
