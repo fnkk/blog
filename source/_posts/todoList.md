@@ -13,15 +13,15 @@ description: to do list
 photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
 ---
 ## June
-### week three
-- read Freud's works
-- go to Wanli University gym to exercise
-- pick up a girl
-- stop watching game videos
-- sort out graduation photos
-- make a dating wether success or failure
-- tidy the room
+### the third week
+- read Freud's works    no 
+- go to Wanli University gym to exercise    yes
+- pick up a girl    no 
+- stop watching game videos     yes
+- sort out graduation photos    no
+- make a dating wether success or failure   no
+- tidy the room     no
 ### Thursday
 - I haven't completed even one thing among these seven goals.
-But I feeling better today cause I didn't use WePoker today.
+But I feeling better today because I didn't use WePoker today.
 - I haven't completed even a single task among these seven goals.
