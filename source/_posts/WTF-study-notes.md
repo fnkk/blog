@@ -78,3 +78,24 @@ solidity的合约可以继承多个合约。规则：
     3. 不能继承除接口外的其他合约
     4. 所有函数都必须是external且不能有函数体
     5. 继承接口的合约必须实现接口定义的所有功能
+### 接收ETH
+#### 接收ETH函数receive
+- receive()只用于处理接收ETH。一个合约最多有一个receive()函数，声明方式与一般函数不一样，不需要function关键字：receive() external payable { ... }。receive()函数不能有任何的参数，不能返回任何值，**必须**包含external和payable。
+#### 回退函数fallback
+- fallback()函数会在调用合约不存在的函数时被触发。可用于接收ETH，也可以用于代理合约proxy contract。fallback()声明时不需要function关键字，必须由external修饰，**一般**也会用payable修饰，用于接收ETH:fallback() external payable { ... }。
+### 发送ETH
+- transfer
+    目标地址.transfer(金额)
+    gas限制是2300
+    转账失败会自动回滚
+    没有返回值
+- send
+    目标地址.send(金额)
+    gas限制2300
+    转账失败不会revert
+    send()的返回值是一个bool，代表转账成功或失败
+- call
+    目标地址.call(value:金额)
+    没有gas限制
+    转账失败不会revert
+    call()的返回值是(bool,data)，bool代表转账成功或失败
