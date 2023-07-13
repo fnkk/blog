@@ -56,4 +56,38 @@ photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
         space 空格、空间 privacy 隐私
     5. Avoid excessive interference or asking overly personal questions.
         excessive 过度的 interference 干涉
-    6. 
+    6. While it is not meant to be taken literally, apples are a nutritious fruit that can contribute to a healthy diet.
+        literally 字面意思地 diet 饮食
+    7. Having a pleasurable sexual experience with your partner is a collaborative and intimate process.
+        collaborative 共同的 intimate 亲密的
+    8. He confessed to the murders of at least 30 young women and girls, although the actual number of his victims is unknown.
+        confessed 公开的 confess 承认 murder 谋杀 victim 受害者
+    9. Bundy was known for his charm and good looks, which he used to gain the trust of his victims before abducting and killing them.
+        charm 魅力 cruel 残忍 abduct 拐、绑架
+    10. He was eventually captured, convicted, and sentenced to death.
+        eventually 最终 capture 捕捉 convict 定罪 sentence 句子、判处
+    11. Bundy's case and his charismatic personality have made him one of the most infamous serial killers in American history.
+        charismatic 旖旎、神赐的 infamous 臭名昭著的 serial 连续的
+    12. However, he had a troubled childhood, with some reports suggesting that he exhibited signs of violence and disturbing behavior from a young age.
+        exhibit 展示 disturbing 烦扰的、令人不安的
+    13.  He would often approach his victims in public places, pretending to be injured or in need of assistance.
+        pretend 假装
+    14. Once he gained their trust, he would overpower them and take them to secluded locations where he would assault and kill them.
+        overpower 压倒 secluded 僻静的 assault 突击
+    15. Despite being a suspect in several disappearances, Bundy managed to evade capture for years.
+        suspect 怀疑、可疑的、嫌疑人 several 几个 disappearance 消失，这里指失踪案 evade 逃避
+    16. He moved across different states, committing murders in Washington, Oregon, Utah, and Colorado. However, his luck eventually ran out when he was arrested in 1975 for a traffic violation.
+        traffic violation 交通违规 ran out 耗尽
+    17. He would sometimes pretend to be a police officer or use his charm to manipulate them.
+        manipulate 操纵
+    18. He was known for his ability to blend in and appear non-threatening, which allowed him to continue his crimes for an extended period.
+        to blend in 融入 threatening 威胁性 extended 长期的
+    19. While in custody, Bundy was linked to multiple murders through physical evidence and witness testimonies. He was put on trial for the murder of two women in Florida and was found guilty. 
+        custody 拘留 testimony 证词 trial 审判 guilty 有罪的
+    20. Bundy was sentenced to death and spent years appealing his conviction.
+        appeal 呼吁、上诉 conviction 定罪
+    21. He became infamous for his charisma and ability to captivate the public and media.
+        charisma 魅力 captivate 使着迷 media 媒体
+    22. His case and the details of his crimes continue to fascinate and horrify people to this day. Bundy's story has been the subject of numerous books, documentaries, and films, cementing his status as one of the most notorious serial killers in history.
+        horrify 恐惧 cementing 巩固 notorious 臭名昭著的
+    
