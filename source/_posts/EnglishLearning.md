@@ -59,7 +59,7 @@ photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
     6. While it is not meant to be taken literally, apples are a nutritious fruit that can contribute to a healthy diet.
         literally 字面意思地 diet 饮食
     7. Having a pleasurable sexual experience with your partner is a collaborative and intimate process.
-        collaborative 共同的 intimate 亲密的
+        collaborative 合作的 intimate 亲密的
     8. He confessed to the murders of at least 30 young women and girls, although the actual number of his victims is unknown.
         confessed 公开的 confess 承认 murder 谋杀 victim 受害者
     9. Bundy was known for his charm and good looks, which he used to gain the trust of his victims before abducting and killing them.
@@ -90,4 +90,19 @@ photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
         charisma 魅力 captivate 使着迷 media 媒体
     22. His case and the details of his crimes continue to fascinate and horrify people to this day. Bundy's story has been the subject of numerous books, documentaries, and films, cementing his status as one of the most notorious serial killers in history.
         horrify 恐惧 cementing 巩固 notorious 臭名昭著的
-    
+- new words by new way at Thirteenth
+    1. Census records reveal that several men by the name of John Worthington and Lloyd Marshall lived near Louise when Bundy was conceived.
+        census 人口普查 record 记录 reveal 揭示、泄露 conceive 怀孕
+    2. Bundy expressed a lifelong resentment toward his mother for never talking to him about his real father, and for leaving him to discover his true parentage for himself.
+        lifelong 终身的 resentment 怨恨 parentage 亲子关系
+    3. He also occasionally exhibited disturbing behavior at an early age. 
+        occasionally 偶尔 exhibited 展示 disturbing 令人不安
+    4. Louise's younger sister, Julie Cowell, recalled awakening from a nap to find herself surrounded by knives from the kitchen, and 3-year-old Ted standing by the bed, smiling.
+        recall 回忆起 awakening 睡醒
+    5. He liked to inflict pain and suffering and fear.
+        inflict 使遭受打击 suffering 苦楚、痛苦
+    6. In some interviews, Bundy spoke warmly of his grandparents and told Rule that he "identified with," "respected," and "clung to" his grandfather.
+        identified with 相同于 identified 确认、鉴定、认出 clung to 牢牢抓住
+    7. In 1987, however, he and other family members told attorneys that Samuel was a tyrannical bully who beat his wife and dog, swung neighborhood cats by their tails, and expressed racist and xenophobic attitudes. 
+        attorney 律师 tyrannical 残暴的、专横的 bully 恶霸 beat 打 swung swing的过去分词，摇摆、甩 tail 尾巴 racist 种族主义的 xenophobic 排外的 attitude 态度
+    8. He would sometimes speak aloud to unseen presences,and at least once flew into a violent rage when the question of Bundy's paternity was raised.
