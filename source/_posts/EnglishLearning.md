@@ -61,7 +61,7 @@ photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
     7. Having a pleasurable sexual experience with your partner is a collaborative and intimate process.
         collaborative 合作的 intimate 亲密的
     8. He confessed to the murders of at least 30 young women and girls, although the actual number of his victims is unknown.
-        confessed 公开的 confess 承认 murder 谋杀 victim 受害者
+        confess 承认 confessed 公开的 murder 谋杀 victim 受害者
     9. Bundy was known for his charm and good looks, which he used to gain the trust of his victims before abducting and killing them.
         charm 魅力 cruel 残忍 abduct 拐、绑架
     10. He was eventually captured, convicted, and sentenced to death.
@@ -106,3 +106,14 @@ photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
     7. In 1987, however, he and other family members told attorneys that Samuel was a tyrannical bully who beat his wife and dog, swung neighborhood cats by their tails, and expressed racist and xenophobic attitudes. 
         attorney 律师 tyrannical 残暴的、专横的 bully 恶霸 beat 打 swung swing的过去分词，摇摆、甩 tail 尾巴 racist 种族主义的 xenophobic 排外的 attitude 态度
     8. He would sometimes speak aloud to unseen presences,and at least once flew into a violent rage when the question of Bundy's paternity was raised.
+        unseen 看不见的 presence 出席、存在、感觉在附近的人 fly into 爆发 rage 愤怒 violent rage 暴怒 paternity 父亲的身份
+    9. Bundy described his grandmother as a timid and obedient woman who periodically underwent electroconvulsive therapy for depression and feared to leave their house toward the end of her life.
+        timid 胆怯的 obedient 唯命是从的 periodically 定期地 underwent 经历 electroconvulsive 电惊厥的 therapy 治疗 depression 沮丧、抑郁症 
+    10. These descriptions of Bundy's grandparents have been questioned in more recent investigations.
+        question 动词：质疑 investigation 侦察
+    11. Some locals remembered Samuel as a "fine man", if a bit eccentric, and expressed bewilderment at the reports of him being violent. 
+        eccentric 古怪的 bewilderment 困惑 being 存在
+- new words at Fourth week
+    1. Be confident but not arrogant: Confidence can be attractive, but avoid coming across as overly cocky or boastful.
+        arrogant 傲慢的、自大的 cocky 自大的 boastful 自夸的
+    2. 
