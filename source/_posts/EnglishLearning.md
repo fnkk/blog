@@ -92,7 +92,7 @@ photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
         horrify 恐惧 cementing 巩固 notorious 臭名昭著的
 - new words by new way at Thirteenth
     1. Census records reveal that several men by the name of John Worthington and Lloyd Marshall lived near Louise when Bundy was conceived.
-        census 人口普查 record 记录 reveal 揭示、泄露 conceive 怀孕
+        census 人口普查 record 记录 reveal 揭示、泄露 conceive 怀孕、设想、构想
     2. Bundy expressed a lifelong resentment toward his mother for never talking to him about his real father, and for leaving him to discover his true parentage for himself.
         lifelong 终身的 resentment 怨恨 parentage 亲子关系
     3. He also occasionally exhibited disturbing behavior at an early age. 
