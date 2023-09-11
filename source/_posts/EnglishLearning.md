@@ -94,15 +94,15 @@ photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
     1. Census records reveal that several men by the name of John Worthington and Lloyd Marshall lived near Louise when Bundy was conceived.
         census 人口普查 record 记录 reveal 揭示、泄露 conceive 怀孕、设想、构想
     2. Bundy expressed a lifelong resentment toward his mother for never talking to him about his real father, and for leaving him to discover his true parentage for himself.
-        lifelong 终身的 resentment 怨恨 parentage 亲子关系
+        lifelong 终身的 resentment 怨恨 parentage 亲子关系 leave sb to do sth.  让某人做某事
     3. He also occasionally exhibited disturbing behavior at an early age. 
-        occasionally 偶尔 exhibited 展示 disturbing 令人不安
+        occasionally 偶尔 occasion 场合 exhibit 展示 prohibit 禁止 disturbing 令人不安
     4. Louise's younger sister, Julie Cowell, recalled awakening from a nap to find herself surrounded by knives from the kitchen, and 3-year-old Ted standing by the bed, smiling.
         recall 回忆起 awakening 睡醒
     5. He liked to inflict pain and suffering and fear.
         inflict 使遭受打击 suffering 苦楚、痛苦
     6. In some interviews, Bundy spoke warmly of his grandparents and told Rule that he "identified with," "respected," and "clung to" his grandfather.
-        identified with 相同于 identified 确认、鉴定、认出 clung to 牢牢抓住
+        identified with 相同于、认同 identified 确认、鉴定、认出 clung to 牢牢抓住、依恋
     7. In 1987, however, he and other family members told attorneys that Samuel was a tyrannical bully who beat his wife and dog, swung neighborhood cats by their tails, and expressed racist and xenophobic attitudes. 
         attorney 律师 tyrannical 残暴的、专横的 bully 恶霸 beat 打 swung swing的过去分词，摇摆、甩 tail 尾巴 racist 种族主义的 xenophobic 排外的 attitude 态度
     8. He would sometimes speak aloud to unseen presences,and at least once flew into a violent rage when the question of Bundy's paternity was raised.
@@ -115,5 +115,20 @@ photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
         eccentric 古怪的 bewilderment 困惑 being 存在
 - new words at Fourth week
     1. Be confident but not arrogant: Confidence can be attractive, but avoid coming across as overly cocky or boastful.
-        arrogant 傲慢的、自大的 cocky 自大的 boastful 自夸的
-    2. 
+        arrogant 傲慢的、自大的 attractive 有吸引力的 attack 攻击
+        attach 系上、把...附 cocky 自大的 boastful 自夸的 come across as 给人...的印象
+    2. “The characterization that Sam was a raging alcoholic and animal abuser was a convenient characterization used to make people justify why Ted was the way he was,” said one of Bundy’s cousins.
+        characterization 刻画、塑造 raging 严重的 alcoholic 酒精的；嗜酒如命者 abuser 施暴者 justify 证明...正确
+
+## September
+### second week
+- To Michaud and Aynesworth, he described roaming his neighborhood, picking through trash barrels in search of pictures of naked women and to attorney and author Polly Nelson he said that he perused detective magazines, and crime novels for stories that involved sexual violence, particularly when the stories were illustrated with pictures of dead or maimed women.
+    roam 漫步、游荡、闲逛 barrel 桶、一桶 naked 裸体的 peruse 精读
+    persuade 说服 detective 侦探 illustrate 给...插图、说明 maim 使残废 dead 做名词时，表示死人；death是死亡；
+### third week
+- In a letter to Rule, however, he asserted that he "never, ever read fact-detective magazines, and shuddered at the thought that anyone would.
+    assert 声称、宣称 shudder 打颤、发抖
+- He once told Michaud that he would consume large quantities of alcohol and "canvass the community" late at night in search of undraped windows where he could observe women undressing, or "whatever could be seen."
+    canvass 拉票、游说 undraped 未用布遮盖的 drape 悬挂、遮住 
+- “He hung one of the stray cats in the neighborhood from one of the clothes lines in the backyard, doused it in lighter fluid and set it on fire and I heard that cat squealing.”
+    stray cat 流浪猫 douse 倒...液体 in lighter 打火机 fluid 液体 squealing 尖叫、告发、告密
