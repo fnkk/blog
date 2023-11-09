@@ -132,3 +132,28 @@ photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
     canvass 拉票、游说 undraped 未用布遮盖的 drape 悬挂、遮住 
 - “He hung one of the stray cats in the neighborhood from one of the clothes lines in the backyard, doused it in lighter fluid and set it on fire and I heard that cat squealing.”
     stray cat 流浪猫 douse 倒...液体 in lighter 打火机 fluid 液体 squealing 尖叫、告发、告密
+- One little girl went over the top of one of Ted’s tiger traps and got the whole side of her leg slit open with the sharpened point of the stick that she landed on.
+    trap 陷阱 slit 一道长口 sharp 锐利的 sharpen 锐化 land on 着陆
+- He told journalists Michaud and Aynesworth that he "chose to be alone" as an adolescent because he was unable to understand interpersonal relationships
+    journalist 记者 adolescent 青少年 interpersonal 人际的
+## October
+### last week
+- Blockchain is a decentralized distributed ledger technology that uses encryption algorithms to package transaction records into blocks and link them in chronological order to form an immutable chain structure. In simple terms, it allows everyone to maintain the same ledger, achieving value immutability in an Internet where information can be replicated.
+
+decentralized 去中心化的 distribute 分发 ledger 账本 encryption 加密 algorithm 算法 transaction 交易 chronological 按时间顺序的 immutable 不可变的 term 条款、说辞 immutability 不变 replicate 复制、再生
+- To ensure a low entry barrier for participation, Bitcoin controls the block generation time for the entire network to approximately 10 minutes, resulting in an average Transactions Per Second (TPS) in the single digits. Ethereum has a block generation time of about 12 seconds, with an average TPS of only a few dozen. This falls short compared to the economic activities of traditional Web2.
+
+barrier 障碍 digit 个位数、手指、脚趾 dozen 一打、十来个 
+- After understanding the fundamental principles of blockchain, we naturally consider the following two approaches to enhance performance:
+
+fundamental 基本的 principle 原理 approach n.方法 v.接近
+- Increase the size of individual blocks to accommodate more transactions.
+
+This approach leads to rapid bloating of the blockchain ledger, requiring increasingly higher performance from participating validating machines, raising the entry barrier, and gradually reducing the decentralization and security of the entire network. Bitcoin Cash (BCH), which forked from Bitcoin, increased the block size from 1MB to 32MB, while Bitcoin Satoshi's Vision (BSV) even more aggressively removed the block size limit, allowing an unlimited amount of information to be incorporated into a block.
+
+accommodate 容纳 rapid 快速的 bloat 膨胀 aggressively 有进攻性地 incorporate 合并
+- Decrease the block generation time and aim to generate more blocks within a certain period to process more transactions.
+
+This approach imposes higher requirements on the network conditions of nodes, increasing the entry barrier. It also affects the stability of data synchronization across the network because node clusters physically far apart are prone to divergent opinions on the latest blocks, leading to forks. Forked chains need to compete to produce a new longest chain, discarding one branch and resulting in the rewriting of many transactions during a certain period, known as "block reorganization". Polygon experienced 157 block reorganization events in 2023.
+
+impose 强制执行 affect 影响 synchronization 同步 cluster 集群 prone 易遭受的 divergent 有分歧的

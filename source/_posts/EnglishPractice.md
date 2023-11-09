@@ -37,3 +37,59 @@ photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
     2. To Michaud and Aynesworth, he described roaming his neighborhood, picking through trash barrels in search of pictures of naked women and to attorney and author Polly Nelson he said that he perused detective magazines, and crime novels for stories that involved sexual violence, particularly when the stories were illustrated with pictures of dead or maimed women. 
     3. To Michaud and Aynesworth, he described roaming his neighborhood, picking through trash barrels in search of pictures of naked women and to attorney and author Polly Nelson he said that he perused detective magazines, and crime novels for stories that involved sexual violence, particularly when the stories were illustrated with pictures of dead or maimed women.
     4. To Michaud and Aynesworth, he described roaming his neighborhood, picking through trash barrels in search of pictures of naked women and to attorney and author Polly Nelson he said that he perused detective magazines and crime novels for stories that involved sexual violence, particularly when the stories were illustrated with pictures of dead or maimed women.
+
+- 一个小女孩越过Ted的一个老虎陷阱的顶部，用她落在上面的棍子的尖锐尖端划开了她的整条腿。
+    1. One little girl went over the top of one of Ted’s tiger traps and got the whole side of her leg slit open with the sharpened point of the stick that she landed on.
+## 前后缀
+### 名词后缀
+1. -ion（前接动词）
+2. -ant xx的人（前接词根）
+3. -or -er xx者（前接动词）
+4. -itude xx度 （前接词根）altitude
+5. -us （前接词根）
+6. -ule 
+7. -ence（前接名词）
+8. -ess （前接动词）女XX
+9. -est 
+### 形容词后缀
+1. -ant xx的（前接词根）
+2. -org xx的（前接动词）
+3. -arg xx的（前接名词）
+4. -ed xx的（前接名词）
+5. -able 能够xx的（前接名词）
+6. -ent （前接名词）
+7. -al xx的（前接名词）
+8. -ity xx的（状态） activity
+9. -less 没有XX的 useless
+### 动词后缀
+1. -ate
+2. -ize 使xx
+### 动词前缀
+1. im- 进入（后接动词/名词/形容词） immigrate/immigration/immigrant 移居进入（的人）
+2. e- 向外
+3. in- 向内、加强、不XX（表示否定）
+4. ab- 加强
+5. red- 加强
+6. de- 去除
+7. re- 重新
+8. ex- 使
+## 词根
+0. dur 久
+1. alt 变、高
+2. dol 悲伤
+3. migr 迁徙、移居
+4. holic 喜欢的
+5. tango/tangle 纠缠
+6. fla 呼啦、吹气、风
+7. und 充溢
+8. err 错误
+9. labor 劳动
+10. am 爱慕
+11. jelly 果冻、胶状物
+12. ee 被动方
+13. conq 攻克
+14. bhor 不喜欢
+15. vita 命
+16. haus 耗尽
+17. mon 一、专
+18. vigor 精力

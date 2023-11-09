@@ -25,3 +25,12 @@ photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
 - I haven't completed even one thing among these seven goals.
 But I feeling better today because I didn't use WePoker today.
 - I haven't completed even a single task among these seven goals.
+## October
+1. typescript
+2. tailwindcss 10.23打卡学习，基本了解能看得懂
+3. thirdweb
+4. styled-components
+5. vite
+6. github
+7. hardhat
+8. nextjs
