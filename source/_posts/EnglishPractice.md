@@ -61,13 +61,14 @@ photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
 7. -al xx的（前接名词）
 8. -ity xx的（状态） activity
 9. -less 没有XX的 useless
+10. -ous 多XX的
 ### 动词后缀
 1. -ate
 2. -ize 使xx
 ### 动词前缀
 1. im- 进入（后接动词/名词/形容词） immigrate/immigration/immigrant 移居进入（的人）
 2. e- 向外
-3. in- 向内、加强、不XX（表示否定）
+3. in- 向内、加强、不XX（表示否定）、使...
 4. ab- 加强
 5. red- 加强
 6. de- 去除
