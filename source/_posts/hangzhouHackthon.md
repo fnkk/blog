@@ -1,7 +1,7 @@
 ---
 title: 杭州黑客松类friend.tech系统的搭建
 author: Fnkk
-avatar: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
+avatar: /images/24_01/snake.png
 authorLink: fnkk.io
 authorAbout: Fnkk
 authorDesc: Fnkk
@@ -10,7 +10,7 @@ date: 2023-10-14 14:26:01
 comments: true
 keywords: block chain
 description: 设计思路
-photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
+photos: /images/24_01/1.jpeg
 ---
 # 类friend.tech系统设计的思路
 ## 铸造NFT(nft信息可能还需要铸造时间、作者等信息)
