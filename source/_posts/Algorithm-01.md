@@ -76,3 +76,5 @@ var permute = function (nums) {
     return res
 };
 ```
+## 最后
+全排列是众多递归题目的基础，许多回溯和剪枝的操作都是在这个基础上的，要好好掌握。
