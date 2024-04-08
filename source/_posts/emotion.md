@@ -434,4 +434,89 @@ no,what he talk about is not the reality.
 - 今天很闲又没心思学习，又到了胡思乱想的时候。想那么多有啥用，我又不是一个要改变世界的人，我只想满足一下自己的欲望，如同自慰一般，让自己分泌一些多巴胺。就像追求快乐一样，追求自由也是我的心之所向，我被周围的道德、法律、爱国、孝顺等所有的评价体系、束缚规则都感到厌倦。我根本没有想要做的事情，没有想要见的人，一切都无所谓，看到歌颂勤劳、宣扬先苦后甜的骗子感到恶心，压抑自己，扭曲自己的行为感到悲哀。
 - 社会的认同没有意义，消费主义定义的成功是他们的宣传口号，这些无意义和无所谓是我理性计算的结果，但是别人的巧言令色，别人的赞美和认可，就是能够打开我的多巴胺开关，令我愉悦，他们的不解、背弃是他们的无知，与我无干，但是就是能触发我的厌恶机制，让我恶心，让我难受，让我翻来覆去睡不着，哪怕第二天醒来就忘了。明白一件事和实践一件事是两件事。
 ### 22号
--  
+- 掌控力（控制力）是稀缺资源。
+    就像同性恋的圈子一样，无论是les还是gay高位的人总是市场上的稀缺资源，人都喜欢被动，很舒服，不需要思考、动脑子。les里到处找姐姐，给个姬会；gay圈飘零半生。哪怕是正常的男女关系之中，男人也依恋女人的温柔乡，女人更不必多说的，慕强，渴望被支配。
+    成为一个alpha男的弊端自不必多说，自己就成为了一个输出端，一个alpha男去泡妞，是去提供服务，还是享受服务，我觉得是前者更多。女人很会享受，她们更自私，用自己的美貌、性资源去裹挟男人，无论是舔狗还是alpha男，都是不同方式的供养者，alpha男提供的情感支撑应当比物质的礼物更如毒品般上瘾（物质匮乏的女性除外，温饱是精神追求的基础），这应该是女人心理层面的性。
+    所以alpha男是不会有社交焦虑的，他们确实如同手握一百万的富豪，找一个女人去分享其中的五十万。但是所谓的雄性觉醒谈何容易，就像一个白手起家的商贩突然要去赚到百万，其中肯定有不为人知的艰辛。事实上除了努力，还需要信息、领路人、原始资本。
+### 24号
+- 内化
+    内化是一个很奇怪的概念，有些东西就会像说母语、背九九乘法表一样自然，毫无疑问的，这两样东西我是一定内化了的。许多东西，哪怕每天都在使用，也无法如九九乘法表一样开箱即用，还有些东西，你一直知道，却无法实际应用，只能当事后诸葛亮。
+    有一点很重要的标志是，在实战中不借助工具的前提下，真真切切的用出一次。0到1的突破简直就是成功路上的最大绊脚石。没有1就没有正反馈，没有激励的机制会让人抓狂。
+- 路径
+    学习一个新东西都有两种方式，系统学习和野路子。系统学习更全面，更枯燥，从教学出发，可以联系；野路子从实践出发，针对当下，但往往只能窥一管而不知全貌。
+## 24/2
+### 1号
+富者善，穷者恶。
+- 人们对善恶的评价就很受社会普适价值观的影响。通常的标准是：普惠他人者善、劫掠他人者恶。往往既论心，又论迹，相当无赖，有一项不对就被定义为伪善。
+- 人性本善和人性本恶天然的并行存在。自己有足够的资源时，给予他人帮助就变得轻而易举了。帮助他人快乐自己，用物质换取精神娱乐，我不知道这种行为是多巴胺还是内啡肽。但无论如何，都是资源再分配，然后双方的情绪upup的共赢局面。
+### 20号
+假期后遗症，懒惰—拖延、白天嗜睡，晚上失眠。
+### 27号
+最近过的越来越好了，一点点转变，昨天是我近期睡得最好的一天，这算是一个小小的转折点吧，车轮步入正轨需要时间，给自己一点时间。
+死鸭子嘴硬是人的天性，外界压力就像寒风，会让人裹得越来越严实。
+### 29号
+I feel the time is slow, I have finished my work,and I have nothing to do. I always look wechat message, hang out on twwiter to spend my time.I feel anxiety because everything is working but I am stand on here.I hope I can keep learning that I should learn coding learn new frame,learn English.Howerver, I spend time in think of meaningless things.
+
+GPT:
+I feel time is dragging; I've finished my work and have nothing else to do. I often check WeChat messages and browse Twitter to pass the time.I feel anxious because everything is progressing, yet I find myself standing still. I hope to continue learning—coding, exploring new frameworks, and improving my English. However, I often find myself spending time dwelling on meaningless things.
+
+我刚刚产生了一个学习英语的新方法，把我写的日记用中文写一遍，再自己用英文写一遍，然后让GPT帮我翻译一遍中文，修改一遍英文，通过这样的方式来训练我的英文输出能力，也能看看我离正常的英文输出有多少距离。
+
+This method helps me improve my English output skills and allows me to gauge the gap between my English and stardard English usage.
+
+I generated a new approch of learning English which is write my diary in Chinese and then write it in English,then let GPT to translate the Chinese version, polish the English version. I train my ability of English output by the way,and seeing the distance of normal English output.
+
+GPT:
+I've developed a new approach to learning English, which involves writing my diary in Chinese and then rewriting it in English. Afterwards, I use GPT to translate the Chinese version and refine the English version. This method helps me improve my English output skills and allows me to gauge the gap between my English and standard English usage.
+
+translate:
+I've just come up with a new method for learning English. I first write my diary in Chinese, then rewrite it in English by myself. After that, I let GPT translate the Chinese version and revise the English version. This process helps me train my English output skills and allows me to see how far my English is from standard English output.
+
+## 24/3
+### 1号
+- Typically, a women will screen her long term caretaker logically and slowly, while she chooses her casual sex partners emtionally and more quickly.
+
+### 2号
+- Today is a special day in my daliy life where I spend time to work and study in weekend.Value is developed in barrier, things that hardly to learn and less people can master, the barriers will establish and the value will come.I know all things I done helps me to generate professional barriers, English,Web3 and coding is difficult things in this world especially in China.
+
+GPT: Today marks a special day in my daily routine, as I dedicate time during the weekend to work and study. It is through overcoming challenges that we develop value; mastering difficult skills that few can achieve creates barriers that, in turn, enhance value. Everything I do contributes to building these professional barriers. Mastering English, Web3, and coding are particularly challenging tasks globally, especially in China. These endeavors help me to stand out in my field.
+
+### 4号
+- 伪装
+人是喜欢伪装自己的生物，喜欢掩饰自己真实的想法来符合普适价值观，从而让自己产生一种心理的慰藉，总之，自己的快乐、价值需要一个理由。其实我们生而自由，这种自由应该脱离别人的认可。
+你必须袒露自己内心的想法，卸下伪装，真实的表达自己的需求和感受。让别人知道你是谁，你是怎样的人，这很重要。花香蝶自来是错误的，吸引别人靠的不是花里胡哨的价值，而是你到底是怎么样的人。
+
+GPT：人类，这一复杂而矛盾的生物，总是在不断地伪装自己，掩饰内心深处的真实想法，以迎合那所谓的普遍价值观。他们这么做，无非是为了在心理上寻求某种慰藉，认为自己的快乐与价值必须建立在他人的认可之上。然而，何谈他人的认可？我们生来便自由，这份自由，岂是他人一句评断就能界定的。人的价值与快乐，理应源自内心深处的自我认同，而非外界的评判与赞许。
+必须坦诚地展现自己的内心世界，摒弃所有的伪装，真切地表达自己的需求与情感。向世人揭示你的本色，让他们了解真正的你，这是极其重要的。那句所谓的“花香蝶自来”，实则是一种迷思。吸引他人，决不依赖于外表的华丽或是表面的价值，而是基于你的真实本性——你究竟是一个怎样的存在。
+
+### 7号
+代码写累了看累了，正好看到了一个牛市愿望清单的文章，虽然我的微薄投资肯定无法兑现这个愿望，但是也可以来写一下。
+很多事情想做没有勇气去做的核心原因就是没钱...好现实啊，倘若资金无限，我现在会干什莫。
+1. 把妹
+2. 去旅游把不同地方的妹子
+3. 去学英语把不同国家的妹子
+4. ...
+没有办法，生存和繁衍是基本需求，我两个都没有满足，有足够的资金后，考虑的自然是繁衍的需求。再往后才有可能去实现更高的需求。但是没办法，这两两点我都不知道要多久才能实现，或者需要多久能拉升，如果经济和情感双双自由是两门100分的功课，那么，我现在两门的分数是20和5。三年后我会怎么样，五年后呢？
+
+### 14号
+幸福来的太突然，昨天突然收到了CP的全职邀请。
+激动之余，得整理一些问题，昨晚太激动了都忘了问了。
+1. offer什么时候可以发
+2. 薪资大概多少，我预期2000U
+3. 提现渠道一般只有币安这类交易吗，合同怎么签，收入怎么合法化
+4. 工作形式是怎么样，周末双休，每天8小时；还是完成任务，时间自由分配
+
+
+- 咨询大圣的几个问题
+1. 我期望的薪资2KU是不是合理的，怎么谈薪，我的履历和学历这么差，然后技术也不是很强
+2. 办公地点我怎么选
+3. 这个团队是不是我可以相信的，后续的发token之类的，如果给我的薪水都很低，那么拿到的token奖励会不会也很少
+4. 后续技术上怎么选
+5. 现在的薪资和将来的薪资会怎么调整
+6. 我再求职会变得怎么样，机会更多/更少了
+
+
+大概能发多少token，token的定价大概是怎么样的
+
+### 26号
+- 最近好累的，今天好像没多忙了，需要等一等同事们的开发。

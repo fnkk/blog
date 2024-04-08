@@ -55,4 +55,24 @@ export default function InvoiceStatus({ status }: { status: string }) {
 ```
 ## Optimizing Fonts and Images
 - next/font
+  ```
+    import { Inter, Lusitana } from 'next/font/google';
+    export const inter = Inter({ subsets: ['latin'] });
+  ```
+  其中**subsets: ['latin']**表示拉丁字符集，如果是中文为主的可以配置为**subsets: ['chinese-simplified']**，当然要是支持中文的字体。
+  引入后的使用方式如下：
+  ```
+   <p className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}>
+  ```
 - next/image
+image就比较简单了，直接引入使用就好，和img标签类似。
+```
+import Image from 'next/image';
+<Image
+  src="/hero-desktop.png"
+  width={1000}
+  height={760}
+  className="hidden md:block"
+  alt="Screenshots of the dashboard proshowing desktop version"
+/>
+```

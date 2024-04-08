@@ -20,8 +20,11 @@ photos: https://cdn.jsdelivr.net/gh/fnkk/resource@0.0.2/img/mayi.jpg
 6. 尝试定下目标，完成它的60%。
 7. 完成度比完美重要的多。
 8. 冒进的话之所以冒进，不是因为话冒进，只是因为情绪和氛围不对。
-9. rimraf node_modules 删除node_modules。
+9. rimraf node_modules  删除node_modules。
+9. Remove-Item -Path .\node_modules -Recurse -Force
 10. 有没有可能，你坚持和守护的东西，都是错的。
 11. 犹豫不一定是谎言，快速的回应反而可能是提前准备好的谎言。
 12. 了解规则、跳出规则、突破规则。
 13. 你不喜欢一个人，不代表你不希望她喜欢你。
+14. 人连写日记都会撒谎。
+15. Typically, a women will screen her long term caretaker logically and slowly, while she chooses her casul sex partners emtionally and more quickly.
